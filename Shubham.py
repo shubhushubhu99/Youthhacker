@@ -125,7 +125,7 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;91mWrong Password"
-            os.system('' xdg-open 'https://youtu.be/7x6IJH-bE8w)
+            os.system('' xdg-open https://youtu.be/7x6IJH-bE8w)
     else:
         print "\033[1;94mWrong Username"
         os.system(''xdg-open https://youtu.be/7x6IJH-bE8w)
